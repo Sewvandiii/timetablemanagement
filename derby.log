@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Sep 28 16:06:27 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0174-d448-fce6-0000068c7090 
+on database directory C:\Users\Sewwandi\Desktop\New folder (2)\TimetableManagement\mydatabs  with class loader sun.misc.Launcher$AppClassLoader@12a3a380 
+Loaded from file:/C:/Users/Sewwandi/Downloads/Compressed/db-derby-10.8.2.2-bin/db-derby-10.8.2.2-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_51-b16
+user.dir=C:\Users\Sewwandi\Desktop\New folder (2)\TimetableManagement
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
