@@ -26,7 +26,11 @@
     <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
     <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
     <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+<<<<<<< HEAD
     <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,-48,0,0,4,-70"/>
+=======
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,66,0,0,4,-70"/>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
   </AuxValues>
 
   <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
@@ -41,7 +45,11 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+<<<<<<< HEAD
           <AbsoluteConstraints x="0" y="0" width="1210" height="990"/>
+=======
+          <AbsoluteConstraints x="0" y="0" width="1210" height="840"/>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
         </Constraint>
       </Constraints>
 
@@ -62,7 +70,11 @@
                           <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
+<<<<<<< HEAD
                   <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+=======
+                  <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
               </Group>
           </Group>
         </DimensionLayout>
@@ -70,14 +82,24 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <Component id="jPanel2" min="-2" pref="110" max="-2" attributes="0"/>
+<<<<<<< HEAD
                   <EmptySpace type="separate" max="-2" attributes="0"/>
+=======
+                  <EmptySpace max="-2" attributes="0"/>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="jTextField1" min="-2" pref="39" max="-2" attributes="0"/>
                       <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
                   </Group>
+<<<<<<< HEAD
                   <EmptySpace pref="18" max="32767" attributes="0"/>
                   <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+=======
+                  <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                  <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="48" max="32767" attributes="0"/>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
               </Group>
           </Group>
         </DimensionLayout>
@@ -210,6 +232,7 @@
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="1" attributes="0">
+<<<<<<< HEAD
                       <EmptySpace min="162" pref="162" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="103" alignment="0" groupAlignment="0" attributes="0">
@@ -228,17 +251,47 @@
                               <Component id="home_locationButton1" min="-2" pref="298" max="-2" attributes="0"/>
                               <Component id="home_locationButton" min="-2" pref="298" max="-2" attributes="0"/>
                           </Group>
+=======
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="158" max="-2" attributes="0"/>
+                              <Component id="home_locationButton" min="-2" pref="298" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="162" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jButton4" min="-2" pref="298" max="-2" attributes="0"/>
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jButton7" min="-2" pref="298" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel3" pref="7" max="32767" attributes="0"/>
+                                      <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
                       </Group>
                       <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="1" attributes="0">
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Component id="jButton1" alignment="0" min="-2" pref="298" max="-2" attributes="0"/>
+<<<<<<< HEAD
                               <Component id="jButton5" alignment="0" min="-2" pref="298" max="-2" attributes="0"/>
                           </Group>
                           <Component id="btn_statics" min="-2" pref="298" max="-2" attributes="0"/>
                           <Component id="btn_statics1" min="-2" pref="298" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="162" max="-2" attributes="0"/>
+=======
+                              <Component id="workingHours" alignment="0" min="-2" pref="298" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="btn_statics" min="-2" pref="298" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="141" max="-2" attributes="0"/>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
                   </Group>
               </Group>
             </DimensionLayout>
@@ -258,22 +311,35 @@
                               </Group>
                           </Group>
                       </Group>
+<<<<<<< HEAD
                       <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="jButton4" alignment="3" min="-2" pref="123" max="-2" attributes="0"/>
                           <Component id="jButton5" alignment="3" min="-2" pref="123" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+=======
+                      <EmptySpace min="-2" pref="68" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jButton4" alignment="3" min="-2" pref="123" max="-2" attributes="0"/>
+                          <Component id="workingHours" alignment="3" min="-2" pref="123" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="76" max="32767" attributes="0"/>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="home_locationButton" alignment="3" min="-2" pref="123" max="-2" attributes="0"/>
                           <Component id="btn_statics" alignment="3" min="-2" pref="123" max="-2" attributes="0"/>
                       </Group>
+<<<<<<< HEAD
                       <EmptySpace pref="55" max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="home_locationButton1" alignment="3" min="-2" pref="123" max="-2" attributes="0"/>
                           <Component id="btn_statics1" alignment="3" min="-2" pref="123" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+=======
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
                   </Group>
               </Group>
             </DimensionLayout>
@@ -358,7 +424,11 @@
                 <Property name="text" type="java.lang.String" value="SUBJECTs"/>
               </Properties>
             </Component>
+<<<<<<< HEAD
             <Component class="javax.swing.JButton" name="jButton5">
+=======
+            <Component class="javax.swing.JButton" name="workingHours">
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="ff" green="0" red="cc" type="rgb"/>
@@ -374,6 +444,12 @@
                 </Property>
                 <Property name="text" type="java.lang.String" value="Woking hours"/>
               </Properties>
+<<<<<<< HEAD
+=======
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="workingHoursActionPerformed"/>
+              </Events>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
             </Component>
             <Component class="javax.swing.JButton" name="jButton7">
               <Properties>
@@ -392,6 +468,7 @@
                 <Property name="text" type="java.lang.String" value="LECTURERs"/>
               </Properties>
             </Component>
+<<<<<<< HEAD
             <Component class="javax.swing.JButton" name="home_locationButton1">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -432,6 +509,8 @@
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn_statics1ActionPerformed"/>
               </Events>
             </Component>
+=======
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
           </SubComponents>
         </Container>
       </SubComponents>

@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>Timetable_integrated_spm</name>
+=======
+            <name>TimetableManagement</name>
+>>>>>>> 342d3b3... Updated derby database - complete sprint1
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
