@@ -5,9 +5,9 @@ This is a group project for year 3 semester 2 - Software Project management (SPM
 My contribution to the project was:
 
 - Add, update, delete working days and hours 🕔
-- Generate lecturer timetable, student timetable, particular room timetable
+- Generate lecturer timetable, student timetable, particular room timetable 
 - Print timetables 
 
-Sprint 1 video - https://drive.google.com/file/d/1fV1SawfhmZpxTRIQZERwSeyA3g15bGcm/view
+Sprint 1 video 🎥 - https://drive.google.com/file/d/1fV1SawfhmZpxTRIQZERwSeyA3g15bGcm/view
 
 
