@@ -606,12 +606,13 @@ public class timetable extends javax.swing.JFrame {
 
         con = DriverManager.getConnection(URL);
 
-//       String lecturers, tag, subject_name, subject_code, student_group_id,duration, number_of_students;
-//       ArrayList<String> GroupList = new ArrayList<String>(7);
-//       ArrayList<String> LecturerList = new ArrayList<String>(7);
-//       ArrayList<String> StudentList = new ArrayList<String>(7);
-//       ArrayList<String> TagsList = new ArrayList<String>(7);
-//       ArrayList<String> TotalData = new ArrayList<String>(7);
+       //Array list
+       String lecturers, tag, subject_name, subject_code, student_group_id,duration, number_of_students;
+       ArrayList<String> GroupList = new ArrayList<String>(7);
+       ArrayList<String> LecturerList = new ArrayList<String>(7);
+       ArrayList<String> StudentList = new ArrayList<String>(7);
+       ArrayList<String> TagsList = new ArrayList<String>(7);
+       ArrayList<String> TotalData = new ArrayList<String>(7);
         try {
             String lecturerQuery = "SELECT lecturer_fname, lecturer_lname FROM lecturer";
             String tagsQuery = "SELECT tag FROM tags";

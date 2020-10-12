@@ -461,7 +461,12 @@ public class Timetable_dashboard extends javax.swing.JFrame {
         // TODO add your handling code here:
         this.dispose();
         System.out.println("Print Here");
-        timetable3 tb = new timetable3();
+        timetable3 tb = null;
+        try {
+            tb = new timetable3();
+        } catch (PrinterException ex) {
+            Logger.getLogger(Timetable_dashboard.class.getName()).log(Level.SEVERE, null, ex);
+        }
         tb.setVisible(true);
     }//GEN-LAST:event_btn_roomActionPerformed
 

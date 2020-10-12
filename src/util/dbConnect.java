@@ -32,7 +32,6 @@ public class dbConnect {
         
     }
     
-<<<<<<< HEAD
     public static dbConnect getDatabaseConnection() throws ClassNotFoundException, SQLException{
         
         if(dbc == null ){
@@ -41,8 +40,6 @@ public class dbConnect {
         return dbc;
     }
     
-=======
->>>>>>> 342d3b3... Updated derby database - complete sprint1
     public static Connection getConnection(){
         return con;
     }
